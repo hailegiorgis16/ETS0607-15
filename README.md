@@ -13,3 +13,5 @@ The str.swapcase() method is a string method that returns a new string with all 
 The str.find() method is used to search for a substring within a string and returns the lowest index where the substring is found. If the substring is not found, it returns -1.
 # str.index()
 The str.index() method is similar to str.find() it searches for a substring within a string and returns the lowest index where the substring is found. The key difference is that str.index() raises a ValueError if the substring is not found, while str.find() returns -1.
+# str.startswith()
+The str.startswith() method checks if a string starts with a specified substring (or any of multiple possible prefixes) and returns True or False.
