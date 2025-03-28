@@ -15,3 +15,5 @@ The str.find() method is used to search for a substring within a string and retu
 The str.index() method is similar to str.find() it searches for a substring within a string and returns the lowest index where the substring is found. The key difference is that str.index() raises a ValueError if the substring is not found, while str.find() returns -1.
 # str.startswith()
 The str.startswith() method checks if a string starts with a specified substring (or any of multiple possible prefixes) and returns True or False.
+# str.endswith()
+The str.endswith() method checks if a string ends with a specified suffix (or any of multiple possible suffixes) and returns True or False. It's the counterpart to str.startswith().
