@@ -11,3 +11,5 @@ The str.capitalize() method is used to convert the first character of a string t
 The str.swapcase() method is a string method that returns a new string with all the uppercase letters converted to lowercase and all the lowercase letters converted to uppercase. It does not modify the original string but instead creates and returns a new one.v
 # str.find()
 The str.find() method is used to search for a substring within a string and returns the lowest index where the substring is found. If the substring is not found, it returns -1.
+# str.index()
+The str.index() method is similar to str.find() it searches for a substring within a string and returns the lowest index where the substring is found. The key difference is that str.index() raises a ValueError if the substring is not found, while str.find() returns -1.
