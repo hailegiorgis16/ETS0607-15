@@ -19,3 +19,5 @@ The str.startswith() method checks if a string starts with a specified substring
 The str.endswith() method checks if a string ends with a specified suffix (or any of multiple possible suffixes) and returns True or False. It's the counterpart to str.startswith().
 # str.count()
 The str.count() method returns the number of times a specified substring appears in a given string. If the the substring in not found, it returns 0.
+# str.replace()
+The str.replace() method returns a new string where all occurrences of a specified substring are replaced with another substring.
