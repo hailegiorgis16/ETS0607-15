@@ -17,3 +17,5 @@ The str.index() method is similar to str.find() it searches for a substring with
 The str.startswith() method checks if a string starts with a specified substring (or any of multiple possible prefixes) and returns True or False.
 # str.endswith()
 The str.endswith() method checks if a string ends with a specified suffix (or any of multiple possible suffixes) and returns True or False. It's the counterpart to str.startswith().
+# str.count()
+The str.count() method returns the number of times a specified substring appears in a given string. If the the substring in not found, it returns 0.
