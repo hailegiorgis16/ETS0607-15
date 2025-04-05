@@ -21,3 +21,5 @@ The str.endswith() method checks if a string ends with a specified suffix (or an
 The str.count() method returns the number of times a specified substring appears in a given string. If the the substring in not found, it returns 0.
 # str.replace()
 The str.replace() method returns a new string where all occurrences of a specified substring are replaced with another substring.
+# str.strip()
+The strip() method is a built-in string function used to remove leading and trailing whitespace (spaces, tabs, newlines) or specified characters from a string.
