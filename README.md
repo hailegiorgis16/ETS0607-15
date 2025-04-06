@@ -27,3 +27,5 @@ The strip() method is a built-in string function used to remove leading and trai
 The lstrip() method is a string method that returns a copy of the string with leading characters removed from the left side. By default, it removes whitespace characters, but you can specify which characters to remove.
 # str.rstrip()
 The rstrip() method is a string method that returns a copy of the string with trailing characters removed from the right side. Like lstrip(), it defaults to removing whitespace but can remove specified characters.
+# str.split()
+The split() method breaks up a string at the specified separator and returns a list of substrings.
