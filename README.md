@@ -25,3 +25,5 @@ The str.replace() method returns a new string where all occurrences of a specifi
 The strip() method is a built-in string function used to remove leading and trailing whitespace (spaces, tabs, newlines) or specified characters from a string.
 # str.lstrip()
 The lstrip() method is a string method that returns a copy of the string with leading characters removed from the left side. By default, it removes whitespace characters, but you can specify which characters to remove.
+# str.rstrip()
+The rstrip() method is a string method that returns a copy of the string with trailing characters removed from the right side. Like lstrip(), it defaults to removing whitespace but can remove specified characters.
