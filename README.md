@@ -37,3 +37,5 @@ The str.isalpha() method is a string method that checks if all characters in the
 The str.isdigit() method checks if all characters in a string are digits (0-9) and the string contains at least one character.
 # str.isalnum()
 The str.isalnum() method checks if all characters in a string are alphanumeric (either letters or numbers) and the string contains at least one character.
+# str.isspace()
+The str.isspace() method in Python is used to check if a string consists only of whitespace characters. If the string contains only spaces, tabs, newlines, or other whitespace characters, it returns True. Otherwise, it returns False.
