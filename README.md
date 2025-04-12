@@ -33,3 +33,5 @@ The split() method breaks up a string at the specified separator and returns a l
 The str.join() method is a string method that concatenates (joins together) elements of an iterable (like a list, tuple, or string) with the string acting as a separator between each element.
 # str.isalpha()
 The str.isalpha() method is a string method that checks if all characters in the string are alphabetic letters and the string contains at least one character.
+# str.isdigit()
+The str.isdigit() method checks if all characters in a string are digits (0-9) and the string contains at least one character.
