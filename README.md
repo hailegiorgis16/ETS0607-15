@@ -29,3 +29,5 @@ The lstrip() method is a string method that returns a copy of the string with le
 The rstrip() method is a string method that returns a copy of the string with trailing characters removed from the right side. Like lstrip(), it defaults to removing whitespace but can remove specified characters.
 # str.split()
 The split() method breaks up a string at the specified separator and returns a list of substrings.
+# str.join()
+The str.join() method is a string method that concatenates (joins together) elements of an iterable (like a list, tuple, or string) with the string acting as a separator between each element.
