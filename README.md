@@ -35,3 +35,5 @@ The str.join() method is a string method that concatenates (joins together) elem
 The str.isalpha() method is a string method that checks if all characters in the string are alphabetic letters and the string contains at least one character.
 # str.isdigit()
 The str.isdigit() method checks if all characters in a string are digits (0-9) and the string contains at least one character.
+# str.isalnum()
+The str.isalnum() method checks if all characters in a string are alphanumeric (either letters or numbers) and the string contains at least one character.
