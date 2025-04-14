@@ -49,3 +49,5 @@ The len() function in Python is a built-in function that returns the length (num
 The str.encode() method is used to convert a string into its byte representation using a specific encoding standard, such as UTF-8, ASCII, or others. This is particularly useful when you need to work with binary data, send data over a network, or save text in a file with a specific encoding.
 # str.islower()
 The str.islower() method is a built-in string method that checks whether all alphabetic characters in a string are lowercase. It returns True if all the alphabetic characters are lowercase and there is at least one alphabetic character in the string; otherwise, it returns False.
+# str.isupper()
+The str.isupper() method is a built-in string method that checks whether all alphabetic characters in a string are uppercase. It returns True if all the alphabetic characters are uppercase and there is at least one alphabetic character in the string; otherwise, it returns False.
