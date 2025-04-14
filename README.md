@@ -39,3 +39,5 @@ The str.isdigit() method checks if all characters in a string are digits (0-9) a
 The str.isalnum() method checks if all characters in a string are alphanumeric (either letters or numbers) and the string contains at least one character.
 # str.isspace()
 The str.isspace() method in Python is used to check if a string consists only of whitespace characters. If the string contains only spaces, tabs, newlines, or other whitespace characters, it returns True. Otherwise, it returns False.
+# str.format()
+The str.format() method is a powerful tool for formatting strings. It allows you to insert values into a string dynamically and control how they are displayed. This method is particularly useful when you want to create more readable or customizable output.
