@@ -43,3 +43,5 @@ The str.isspace() method in Python is used to check if a string consists only of
 The str.format() method is a powerful tool for formatting strings. It allows you to insert values into a string dynamically and control how they are displayed. This method is particularly useful when you want to create more readable or customizable output.
 # f-strings
 f-strings , introduced in Python 3.6 , are a concise and powerful way to format strings. The "f" stands for "formatted," and they allow you to embed expressions directly inside string literals using curly braces {}. This makes the code more readable and efficient compared to older methods like str.format()
+# len()
+The len() function in Python is a built-in function that returns the length (number of items) of an object. It works with various data types, such as strings, lists, tuples, dictionaries, sets, and more.
