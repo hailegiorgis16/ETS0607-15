@@ -45,3 +45,5 @@ The str.format() method is a powerful tool for formatting strings. It allows you
 f-strings , introduced in Python 3.6 , are a concise and powerful way to format strings. The "f" stands for "formatted," and they allow you to embed expressions directly inside string literals using curly braces {}. This makes the code more readable and efficient compared to older methods like str.format()
 # len()
 The len() function in Python is a built-in function that returns the length (number of items) of an object. It works with various data types, such as strings, lists, tuples, dictionaries, sets, and more.
+# str.encode()
+The str.encode() method is used to convert a string into its byte representation using a specific encoding standard, such as UTF-8, ASCII, or others. This is particularly useful when you need to work with binary data, send data over a network, or save text in a file with a specific encoding.
