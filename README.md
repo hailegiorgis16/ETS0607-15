@@ -55,3 +55,5 @@ The str.isupper() method is a built-in string method that checks whether all alp
  a list is a built-in data structure used to store an ordered collection of items.
  # append()
  The append() method is used to add an element to the end of a list. It modifies the original list in place and does not return a new list.
+ # clear()
+ The clear() method is used to remove all elements from a list, making it empty. It modifies the original list in place and does not return any value (returns None).
