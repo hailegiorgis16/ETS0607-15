@@ -57,3 +57,5 @@ The str.isupper() method is a built-in string method that checks whether all alp
  The append() method is used to add an element to the end of a list. It modifies the original list in place and does not return a new list.
  # clear()
  The clear() method is used to remove all elements from a list, making it empty. It modifies the original list in place and does not return any value (returns None).
+# copy()
+ The copy() method returns a shallow copy of a list. This means it creates a new list with the same elements as the original, but modifications to the new list do not affect the original list (and vice versa).
