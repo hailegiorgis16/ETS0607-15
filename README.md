@@ -73,3 +73,5 @@ The extend() method is used to add multiple elements (from an iterable) to the e
  The remove() method is used to delete the first occurrence of a specified value from a list. Unlike pop(), which removes an item by index, remove() targets the value itself.
 # reverse()
  The reverse() method is used to reverse the order of elements in a list in place. This means it modifies the original list and does not return a new list.
+# sort()
+ The sort() method is used to arrange the elements of a list in ascending or descending order in place (i.e., it modifies the original list). 
