@@ -66,6 +66,8 @@ The extend() method is used to add multiple elements (from an iterable) to the e
 # index()
  The index() method is used to find the first occurrence of a specified value in a list and return its position (index). If the value is not found, it raises a ValueError.
 # insert()
- the insert() method is used to add an element at a specific position in a list. Unlike append(), which only adds to the end, insert() allows you to place the element anywhere in the list.
+ The insert() method is used to add an element at a specific position in a list. Unlike append(), which only adds to the end, insert() allows you to place the element anywhere in the list.
 # pop()
-The pop() method is used to remove and return an element from a list at a specified index. If no index is provided, it removes and returns the last element by default.
+ The pop() method is used to remove and return an element from a list at a specified index. If no index is provided, it removes and returns the last element by default.
+# remove()
+ The remove() method is used to delete the first occurrence of a specified value from a list. Unlike pop(), which removes an item by index, remove() targets the value itself.
