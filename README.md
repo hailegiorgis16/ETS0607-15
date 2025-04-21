@@ -63,3 +63,5 @@ The str.isupper() method is a built-in string method that checks whether all alp
  The count() method returns the number of times a specified element appears in a list.
 # extend()
 The extend() method is used to add multiple elements (from an iterable) to the end of a list. Unlike append(), which adds a single element, extend() unpacks and adds each element of the iterable individually.
+# index()
+ The index() method is used to find the first occurrence of a specified value in a list and return its position (index). If the value is not found, it raises a ValueError.
