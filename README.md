@@ -65,3 +65,5 @@ The str.isupper() method is a built-in string method that checks whether all alp
 The extend() method is used to add multiple elements (from an iterable) to the end of a list. Unlike append(), which adds a single element, extend() unpacks and adds each element of the iterable individually.
 # index()
  The index() method is used to find the first occurrence of a specified value in a list and return its position (index). If the value is not found, it raises a ValueError.
+# insert()
+ the insert() method is used to add an element at a specific position in a list. Unlike append(), which only adds to the end, insert() allows you to place the element anywhere in the list.
