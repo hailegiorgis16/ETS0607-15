@@ -51,3 +51,7 @@ The str.encode() method is used to convert a string into its byte representation
 The str.islower() method is a built-in string method that checks whether all alphabetic characters in a string are lowercase. It returns True if all the alphabetic characters are lowercase and there is at least one alphabetic character in the string; otherwise, it returns False.
 # str.isupper()
 The str.isupper() method is a built-in string method that checks whether all alphabetic characters in a string are uppercase. It returns True if all the alphabetic characters are uppercase and there is at least one alphabetic character in the string; otherwise, it returns False.
+#       'list'
+ a list is a built-in data structure used to store an ordered collection of items.
+ # append()
+ The append() method is used to add an element to the end of a list. It modifies the original list in place and does not return a new list.
