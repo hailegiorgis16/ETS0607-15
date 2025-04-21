@@ -61,3 +61,5 @@ The str.isupper() method is a built-in string method that checks whether all alp
  The copy() method returns a shallow copy of a list. This means it creates a new list with the same elements as the original, but modifications to the new list do not affect the original list (and vice versa).
 # count()
  The count() method returns the number of times a specified element appears in a list.
+# extend()
+The extend() method is used to add multiple elements (from an iterable) to the end of a list. Unlike append(), which adds a single element, extend() unpacks and adds each element of the iterable individually.
