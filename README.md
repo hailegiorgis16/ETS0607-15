@@ -75,3 +75,7 @@ The extend() method is used to add multiple elements (from an iterable) to the e
  The reverse() method is used to reverse the order of elements in a list in place. This means it modifies the original list and does not return a new list.
 # sort()
  The sort() method is used to arrange the elements of a list in ascending or descending order in place (i.e., it modifies the original list). 
+#         'Dictionary'
+A dictionary is a built-in data structure that stores data in key-value pairs.
+# clear()
+ The clear() method is used to remove all items (key-value pairs) from a dictionary, making it empty. This modifies the original dictionary in place and returns None.
