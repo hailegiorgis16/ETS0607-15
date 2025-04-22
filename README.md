@@ -79,3 +79,5 @@ The extend() method is used to add multiple elements (from an iterable) to the e
 A dictionary is a built-in data structure that stores data in key-value pairs.
 # clear()
  The clear() method is used to remove all items (key-value pairs) from a dictionary, making it empty. This modifies the original dictionary in place and returns None.
+# copy()
+ The copy() method is used to create a shallow copy of a dictionary. This means it creates a new dictionary with the same key-value pairs as the original, but modifying the copy does not affect the original (and vice versa).
