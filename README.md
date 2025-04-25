@@ -85,3 +85,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The fromkeys() method is a built-in dictionary method that creates a new dictionary with specified keys and a default value for all those keys.
 # get()
  The get() method is a safe way to retrieve values from a dictionary without raising a KeyError if the key doesn't exist.
+# items()
+ The items() method returns a view object that displays a list of a dictionary's key-value pairs as tuples. This is extremely useful for iterating through both keys and values simultaneously.
