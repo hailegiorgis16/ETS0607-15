@@ -81,3 +81,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The clear() method is used to remove all items (key-value pairs) from a dictionary, making it empty. This modifies the original dictionary in place and returns None.
 # copy()
  The copy() method is used to create a shallow copy of a dictionary. This means it creates a new dictionary with the same key-value pairs as the original, but modifying the copy does not affect the original (and vice versa).
+# fromkeys()
+ The fromkeys() method is a built-in dictionary method that creates a new dictionary with specified keys and a default value for all those keys.
