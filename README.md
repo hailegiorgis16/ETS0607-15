@@ -87,3 +87,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The get() method is a safe way to retrieve values from a dictionary without raising a KeyError if the key doesn't exist.
 # items()
  The items() method returns a view object that displays a list of a dictionary's key-value pairs as tuples. This is extremely useful for iterating through both keys and values simultaneously.
+# keys()
+ The keys() method returns a view object that displays a list of all the keys in a dictionary. This is useful when you need to work with just the keys of a dictionary.
