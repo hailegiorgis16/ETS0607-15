@@ -83,3 +83,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The copy() method is used to create a shallow copy of a dictionary. This means it creates a new dictionary with the same key-value pairs as the original, but modifying the copy does not affect the original (and vice versa).
 # fromkeys()
  The fromkeys() method is a built-in dictionary method that creates a new dictionary with specified keys and a default value for all those keys.
+# get()
+ The get() method is a safe way to retrieve values from a dictionary without raising a KeyError if the key doesn't exist.
