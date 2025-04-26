@@ -91,3 +91,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The keys() method returns a view object that displays a list of all the keys in a dictionary. This is useful when you need to work with just the keys of a dictionary.
 # pop()
  The pop() method removes and returns the value associated with a specified key from a dictionary. This is useful when you need to both retrieve and remove an item from a dictionary in one operation.
+# popitem()
+ The popitem() method is used to remove and return the last inserted key-value pair from a dictionary. 
