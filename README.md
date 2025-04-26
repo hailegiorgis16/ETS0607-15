@@ -95,3 +95,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The popitem() method is used to remove and return the last inserted key-value pair from a dictionary. 
 # setdefault()
  The setdefault() method in Python is used to get the value of a key in a dictionary. If the key doesn't exist, it inserts the key with a specified default value and returns that default value.
+# update()
+ The update() method is used to update a dictionary with elements from another dictionary or from an iterable of key-value pairs. It merges the contents of the provided dictionary or iterable into the existing dictionary.
