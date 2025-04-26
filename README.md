@@ -93,3 +93,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The pop() method removes and returns the value associated with a specified key from a dictionary. This is useful when you need to both retrieve and remove an item from a dictionary in one operation.
 # popitem()
  The popitem() method is used to remove and return the last inserted key-value pair from a dictionary. 
+# setdefault()
+ The setdefault() method in Python is used to get the value of a key in a dictionary. If the key doesn't exist, it inserts the key with a specified default value and returns that default value.
