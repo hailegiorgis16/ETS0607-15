@@ -99,3 +99,7 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The update() method is used to update a dictionary with elements from another dictionary or from an iterable of key-value pairs. It merges the contents of the provided dictionary or iterable into the existing dictionary.
 # values()
  The values() method returns a view object that displays a list of all values in the dictionary. This view object reflects any changes made to the dictionary.
+#            'Tuple'
+ A tuple is a collection of items or values. Some key differences between a tuple and List are: tuple are created by adding comma separated values inside parentheses () tuple are immutable wherein once values are added to tuple, they can't be changed.
+# count()
+ The count() method is a built-in tuple method that returns the number of times a specified value appears in the tuple.
