@@ -103,3 +103,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  A tuple is a collection of items or values. Some key differences between a tuple and List are: tuple are created by adding comma separated values inside parentheses () tuple are immutable wherein once values are added to tuple, they can't be changed.
 # count()
  The count() method is a built-in tuple method that returns the number of times a specified value appears in the tuple.
+# index()
+ The index() method is a built-in tuple method that returns the index of the first occurrence of a specified value in the tuple.
