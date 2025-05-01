@@ -111,3 +111,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  The add() method is used to add a single element to a set in Python. Sets are unordered collections of unique elements, and the add() method helps maintain this uniqueness by only adding the element if it doesn't already exist in the set.
 # clear()
  The clear() method removes all elements from a set, leaving it empty. This is an in-place operation that modifies the original set rather than creating a new one.
+# copy()
+ The copy() method creates a shallow copy of a set. This means it returns a new set containing the same elements as the original, but the two sets are independent objects in memory.
