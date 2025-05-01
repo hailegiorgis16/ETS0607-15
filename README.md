@@ -109,3 +109,5 @@ A dictionary is a built-in data structure that stores data in key-value pairs.
  Sets are used to store multiple items in a single variable. Set is one of 4 built-in data types in Python used to store collections of data.
 # add()
  The add() method is used to add a single element to a set in Python. Sets are unordered collections of unique elements, and the add() method helps maintain this uniqueness by only adding the element if it doesn't already exist in the set.
+# clear()
+ The clear() method removes all elements from a set, leaving it empty. This is an in-place operation that modifies the original set rather than creating a new one.
